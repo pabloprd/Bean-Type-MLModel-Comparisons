@@ -11,7 +11,9 @@ Neural Network
 # Conclusions
 
 The least efficient and accurate was the nearest neighbor algorithim
+
 The most efficient was the neural network (time-wise)
+
 The most accurate algorithim was the support vector machine. 
 
 # Running it yourself
